@@ -1,1 +1,2 @@
 Print ("Hello, Vladislav")
+Print ("Hello, colleagues")
